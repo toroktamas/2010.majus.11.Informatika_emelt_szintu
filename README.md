@@ -1,0 +1,1 @@
+# 2010.majus.11.Informatika_emelt_szintu
