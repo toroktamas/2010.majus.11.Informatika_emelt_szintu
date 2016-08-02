@@ -1,48 +1,48 @@
-1.ules:ures
-2.ules:ures
-3.ules:ures
-4.ules:ures
-5.ules:ures
-6.ules:ures
-7.ules:7.utas
-8.ules:ures
-9.ules:9.utas
-10.ules:ures
-11.ules:ures
-12.ules:12.utas
-13.ules:ures
-14.ules:ures
-15.ules:ures
-16.ules:16.utas
-17.ules:ures
-18.ules:ures
-19.ules:ures
-20.ules:ures
-21.ules:ures
-22.ules:22.utas
-23.ules:ures
-24.ules:ures
-25.ules:ures
-26.ules:ures
-27.ules:ures
-28.ules:28.utas
-29.ules:ures
-30.ules:ures
-31.ules:ures
-32.ules:32.utas
-33.ules:33.utas
-34.ules:ures
-35.ules:ures
-36.ules:ures
-37.ules:37.utas
-38.ules:ures
-39.ules:ures
-40.ules:ures
-41.ules:ures
-42.ules:42.utas
-43.ules:ures
-44.ules:ures
-45.ules:45.utas
-46.ules:ures
-47.ules:ures
-48.ules:ures
+1. ules:42.utas
+2. ules:28.utas
+3. ules:60.utas
+4. ules:33.utas
+5. ules:95.utas
+6. ules:63.utas
+7. ules:10.utas
+8. ules:81.utas
+9. ules:20.utas
+10. ules:41.utas
+11. ules:11.utas
+12. ules:ures
+13. ules:9.utas
+14. ules:71.utas
+15. ules:22.utas
+16. ules:67.utas
+17. ules:104.utas
+18. ules:61.utas
+19. ules:72.utas
+20. ules:83.utas
+21. ules:109.utas
+22. ules:16.utas
+23. ules:45.utas
+24. ules:97.utas
+25. ules:3.utas
+26. ules:39.utas
+27. ules:37.utas
+28. ules:64.utas
+29. ules:113.utas
+30. ules:12.utas
+31. ules:ures
+32. ules:73.utas
+33. ules:91.utas
+34. ules:36.utas
+35. ules:62.utas
+36. ules:57.utas
+37. ules:54.utas
+38. ules:86.utas
+39. ules:89.utas
+40. ules:7.utas
+41. ules:90.utas
+42. ules:85.utas
+43. ules:32.utas
+44. ules:47.utas
+45. ules:19.utas
+46. ules:88.utas
+47. ules:82.utas
+48. ules:ures
